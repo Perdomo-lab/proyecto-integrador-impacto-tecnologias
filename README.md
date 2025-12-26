@@ -1,4 +1,3 @@
-# proyecto-integrador-impacto-tecnologias
 # Proyecto Integrador – Lógica de Programación
 
 ## Nombre del proyecto
