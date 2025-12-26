@@ -4,6 +4,7 @@ print("==============================================")
 
 opcion = 0
 
+# Ciclo principal que mantiene activo el programa hasta que el usuario decida salir
 while opcion != 5:
     print("\nMENÚ PRINCIPAL")
     print("1. Inteligencia Artificial")
@@ -14,6 +15,7 @@ while opcion != 5:
 
     opcion = int(input("Seleccione una opción: "))
 
+    # Condicional para evaluar la opción seleccionada
     if opcion == 1:
         print("\nINTELIGENCIA ARTIFICIAL")
         print("Impactos positivos:")
